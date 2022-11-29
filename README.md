@@ -1,7 +1,7 @@
-# black-jack
+# BJ | By players, for players
 First project | BlackJack in Python
 
--->GUI - Example<--
+# GUI - Example
 
 - BlackJack |♣♠
 
